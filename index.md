@@ -2,5 +2,5 @@
 This is test page.
 
 # contents
-- [notebooks](/notebooks/main.md)
+- [Notebooks](/Notebooks/index.md)
 - [temp](/temp/main.md)
